@@ -12,6 +12,9 @@ const quoteData = [
 { text: "“Not how long, but how well you have lived is the main thing.”", author: "Seneca" },
 { text: "“If life were predictable it would cease to be life, and be without flavor.”", author: "Eleanor Roosevelt" },
 { text: " “The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.”", author: "Henry Ford" },
+  { text: " “To live is the rarest thing in the world. Most people exist, that is all.”", author: "Oscar Wilde" },
+  { text: " “That it will never come again is what makes life so sweet.”", author: "Emily Dickinson" },
+  { text: " “The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.”", author: "Henry Ford" },
 { text: "“In order to write about life first you must live it.”", author: "Ernest Hemingway" }];
 
 
