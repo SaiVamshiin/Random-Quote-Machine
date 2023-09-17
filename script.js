@@ -30,7 +30,7 @@ React.createElement("a", { href: "twitter.com/intent/tweet", id: "tweet-quote", 
 
 
 const getRandomIndex = () =>
-Math.round(Math.random() * (quoteData.length - 1 - 0) + 0);
+Math.round(Math.random() * (quoteData.length - 1 - 0) + 1);
 
 const App = () => {
   const [quote, setQuote] = React.useState(quoteData[getRandomIndex()]);
