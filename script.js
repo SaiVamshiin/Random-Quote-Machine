@@ -14,7 +14,7 @@ const quoteData = [
 { text: " “The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.”", author: "Henry Ford" },
   { text: " “To live is the rarest thing in the world. Most people exist, that is all.”", author: "Oscar Wilde" },
   { text: " “That it will never come again is what makes life so sweet.”", author: "Emily Dickinson" },
-  { text: " “The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.”", author: "Henry Ford" },
+  { text: " “It is never too late to be what you might have been.”", author: "George Eliot" },
 { text: "“In order to write about life first you must live it.”", author: "Ernest Hemingway" }];
 
 
