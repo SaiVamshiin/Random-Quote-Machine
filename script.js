@@ -25,7 +25,7 @@ React.createElement("h2", { id: "author" }, quote.author), /*#__PURE__*/
 React.createElement("div", { class: "actions" }, /*#__PURE__*/
 React.createElement("button", { id: "new-quote", class: "button", onClick: handleNewQuote }, " New Quote "), /*#__PURE__*/
 React.createElement("a", { href: "twitter.com/intent/tweet", id: "tweet-quote", target: "_blank" }, " Tweet ")));
-
+ 
 
 
 
