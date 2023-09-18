@@ -26,7 +26,6 @@ React.createElement("button", { id: "new-quote", class: "button", onClick: handl
 React.createElement("a", { href: "twitter.com/intent/tweet", id: "tweet-quote", target: "_blank" }, " Tweet ")));
  
 
-
 const getRandomIndex = () =>
 Math.round(Math.random() * (quoteData.length - 1 - 0) + 1);
 
