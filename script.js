@@ -17,7 +17,6 @@ const quoteData = [
   { text: " “It is never too late to be what you might have been.”", author: "George Eliot" }, 
 { text: "“In order to write about life first you must live it.”", author: "Ernest Hemingway" }];
 
-
 const QuoteBox = ({ quote, handleNewQuote }) => /*#__PURE__*/
 React.createElement("div", { id: "quote-box" }, /*#__PURE__*/
 React.createElement("p", { id: "text" }, quote.text), /*#__PURE__*/
