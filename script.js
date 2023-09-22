@@ -15,7 +15,8 @@ const quoteData = [
   { text: " “To live is the rarest thing in the world. Most people exist, that is all.”", author: "Oscar Wilde" },
   { text: " “That it will never come again is what makes life so sweet.”", author: "Emily Dickinson" },
   { text: " “It is never too late to be what you might have been.”", author: "George Eliot" }, 
-{ text: "“In order to write about life first you must live it.”", author: "Ernest Hemingway" }];
+{ text: "“In order to write about life first you must live it.”", author: "Ernest Hemingway" },
+{ text: "“Get busy dying or get busy lying.”", author: " King" },];
 
 const QuoteBox = ({ quote, handleNewQuote }) => /*#__PURE__*/
 React.createElement("div", { id: "quote-box" }, /*#__PURE__*/
